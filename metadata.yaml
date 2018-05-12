@@ -1,0 +1,29 @@
+_repo: Kabouters-in-het-Bosch_46263
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46263-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Valkenstein, Kees
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '43683'
+    url: http://www.gutenberg.org/2009/agents/43683
+description: Illustrated by the author.
+gutenberg_issued: '2014-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46263'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gnomes -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: Het sprookje van de twee Kabouters -- De Avonturen van Kobold en
+  Gnoom op Sinterklaasavond -- Koning Droom -- De Kabouters en de City-bag -- Schipper
+  Troll.
+title: Kabouters in het Bosch
+url: http://www.gutenberg.org/ebooks/46263
